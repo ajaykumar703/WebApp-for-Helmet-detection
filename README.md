@@ -19,7 +19,7 @@ Ensure you have the following software installed:
 
 2. **Download Project Files**:
    - Download the following files and place them in the same directory where you have unzipped the dataset:
-     - `WEB.py`
+     - `WEB.py`  ( In this code you need to change the output file directory to your custome one )
      - `helmet_detection.py`
      - `Input_images_jpg` (folder containing input images)
 
