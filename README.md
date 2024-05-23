@@ -43,7 +43,8 @@ Ensure you have the following software installed:
 
 ### Contributors
 
-- Sagareddum Pramod
+- Sagareddum
+- Pramod
 
 ## Project Structure
 
@@ -51,10 +52,6 @@ Ensure you have the following software installed:
 - `helmet_detection.py`: Contains the code for helmet detection using the YOLOv5 model.
 - `Input_images_jpg`: Directory containing the input images for testing the model.
 - `requirements.txt`: A file listing the required Python libraries.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
