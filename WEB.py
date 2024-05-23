@@ -36,7 +36,7 @@ def main():
             unsafe_allow_html=True
         )
     with c2:
-        st.button("Model", on_click=open_website, args=['https://github.com/ajaykumar703/Helmet-detection-website'])
+        st.button("Model", on_click=open_website, args=['https://github.com/ajaykumar703/WebApp-for-Helmet-detection'])
 
     with c3:
 
