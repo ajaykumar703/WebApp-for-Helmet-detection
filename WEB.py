@@ -128,7 +128,7 @@ def main():
     if uploaded_image is not None:
         image_data = uploaded_image.read()
 
-        output_directory = 'C:/Users/ajayk/OneDrive/Pictures/mini_project/mini_project/Input_image_jpg/'
+        output_directory = 'location of Input_image_jpg folder'
 
         output_filename = "uploaded_image.jpg"
 
