@@ -41,7 +41,7 @@ Ensure you have the following software installed:
      ```
    - The Streamlit application will open in your default web browser.
 
-### Contributors
+### Other Contributors
 
 - Sagareddum
 - Pramod
