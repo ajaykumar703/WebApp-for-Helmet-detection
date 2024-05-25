@@ -19,9 +19,9 @@ Ensure you have the following software installed:
 
 2. **Download Project Files**:
    - Download the following files and place them in the same directory where you have unzipped the dataset:
-     - `WEB.py`  ( In this code you need to change the output file directory to your custome one )
+     - `WEB.py`  (In this code, you need to change the output file directory to your custom one)
      - `helmet_detection.py`
-     - `Input_images_jpg` (folder containing input images)
+     - `Input_images_jpg`(add this by your own)
 
 3. **Install Dependencies**:
    - Open a terminal or command prompt.
@@ -50,8 +50,18 @@ Ensure you have the following software installed:
 
 - `WEB.py`: The main script to run the Streamlit application.
 - `helmet_detection.py`: Contains the code for helmet detection using the YOLOv5 model.
-- `Input_images_jpg`: Directory containing the input images for testing the model.
+- `Input_images_jpg`: Directory containing the input images for testing the model (`demo1.jpg`, `demo2.jpg`, `with_helmet1.jpg`, `with_helmet2.jpg`, `rrr.jpg`).
 - `requirements.txt`: A file listing the required Python libraries.
+
+## Output Samples
+
+Here are some sample images used for helmet detection:
+
+![Demo 1](demo1.jpg)
+![Demo 2](demo2.jpg)
+![With Helmet 1](with-helmet1.jpg)
+![With Helmet 2](withhelmet2.jpg)
+![RRR](rrr.jpg)
 
 ---
 
