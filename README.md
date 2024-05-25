@@ -59,7 +59,7 @@ Here are some sample images used for helmet detection:
 
 ![Demo 1](demo1.jpg)
 ![Demo 2](demo2.jpg)
-![With Helmet 1](with-helmet1.jpg)
+![With Helmet 1](withhelmet1.jpg)
 ![With Helmet 2](withhelmet2.jpg)
 ![RRR](rrr.jpg)
 
