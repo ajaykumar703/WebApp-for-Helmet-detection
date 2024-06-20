@@ -93,7 +93,7 @@ def main():
     st.write("---")
 
     st.markdown(
-        f'<div style="font-size: 60px; font-weight: bold; color: #1D5C96;text-align: center;">Git-Hub</div>',
+        f'<div style="font-size: 60px; font-weight: bold; color: #1D5C96;text-align: center;">My Profiles</div>',
         unsafe_allow_html=True
     )
 
@@ -116,13 +116,13 @@ def main():
         )
 
         # st.button("Sagar.E", on_click=open_website, args=['https://github.com/sagareddum'])
-        st.write(f'<a href="https://github.com/ajaykumar703" style="{button_style}" class="stButton">Ajay.k</a>',
+        st.write(f'<a href="https://github.com/ajaykumar703" style="{button_style}" class="stButton">GitHub</a>',
                  unsafe_allow_html=True)
         st.markdown(f'<div style="padding-top:50px;"> </div>', unsafe_allow_html=True)
-        st.write(f'<a href="https://github.com/sagareddum" style="{button_style}" class="stButton">Sagar.E</a>',
+        st.write(f'<a href="https://www.linkedin.com/in/ajay-kumar-k-29a081238/" style="{button_style}" class="stButton">LinkedIn</a>',
                  unsafe_allow_html=True)
         st.markdown(f'<div style="padding-top:50px;"> </div>', unsafe_allow_html=True)
-        st.write(f'<a href="https://github.com/sagareddum" style="{button_style}" class="stButton">Pramode.M.S</a>',
+        st.write(f'<a href="https://leetcode.com/u/ajay_kumar703/" style="{button_style}" class="stButton">LeetCode</a>',
                  unsafe_allow_html=True)
 
     if uploaded_image is not None:
