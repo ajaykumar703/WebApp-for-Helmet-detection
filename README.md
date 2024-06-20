@@ -41,11 +41,6 @@ Ensure you have the following software installed:
      ```
    - The Streamlit application will open in your default web browser.
 
-### Other Contributors
-
-- Sagareddum
-- Pramod
-
 ## Project Structure
 
 - `WEB.py`: The main script to run the Streamlit application.
