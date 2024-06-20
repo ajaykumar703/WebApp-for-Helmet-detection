@@ -128,15 +128,12 @@ def main():
     if uploaded_image is not None:
         image_data = uploaded_image.read()
 
-        output_directory = 'Images/'
 
-        output_filename = "uploaded_image.jpg"
-
-        output_path = output_directory + output_filename
+        output_filename = "uploaded_image.jpg
 
         with open(output_path, "wb") as f:
             f.write(image_data)
-        output_img, status = predict(output_path)
+        output_img, status = predict(output_filename)
 
         with left_img:
             st.image(output_img, caption='Uploaded Image', use_column_width=True)
@@ -147,7 +144,7 @@ def main():
                 unsafe_allow_html=True
             )
 
-        os.remove(output_path)
+        os.remove(output_filename)
 
 
 if __name__ == "__main__":
