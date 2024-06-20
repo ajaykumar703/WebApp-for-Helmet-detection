@@ -19,9 +19,9 @@ Ensure you have the following software installed:
 
 2. **Download Project Files**:
    - Download the following files and place them in the same directory where you have unzipped the dataset:
-     - `WEB.py`  (In this code, you need to change the output file directory to your custom one)
+     - `WEB.py`
      - `helmet_detection.py`
-     - `Input_images_jpg`(add this by your own)
+     - `requirements.txt`
 
 3. **Install Dependencies**:
    - Open a terminal or command prompt.
@@ -50,7 +50,7 @@ Ensure you have the following software installed:
 
 - `WEB.py`: The main script to run the Streamlit application.
 - `helmet_detection.py`: Contains the code for helmet detection using the YOLO model.
-- Input images for testing the model (`demo1.jpg`, `demo2.jpg`, `with_helmet1.jpg`, `with_helmet2.jpg`, `rrr.jpg`).
+- `Images`: Input images for testing the model (`demo1.jpg`, `demo2.jpg`, `with_helmet1.jpg`, `with_helmet2.jpg`, `rrr.jpg`).
 - `requirements.txt`: A file listing the required Python libraries.
 
 ## Output Samples
