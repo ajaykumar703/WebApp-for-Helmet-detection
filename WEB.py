@@ -128,7 +128,7 @@ def main():
     if uploaded_image is not None:
         image_data = uploaded_image.read()
 
-        output_directory = 'location of Input_image_jpg folder'
+        output_directory = 'Input_images'
 
         output_filename = "uploaded_image.jpg"
 
