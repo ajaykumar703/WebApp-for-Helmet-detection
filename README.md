@@ -50,7 +50,7 @@ Ensure you have the following software installed:
 
 - `WEB.py`: The main script to run the Streamlit application.
 - `helmet_detection.py`: Contains the code for helmet detection using the YOLO model.
-- `Input_images_jpg`: Directory containing the input images for testing the model (`demo1.jpg`, `demo2.jpg`, `with_helmet1.jpg`, `with_helmet2.jpg`, `rrr.jpg`).
+- Input images for testing the model (`demo1.jpg`, `demo2.jpg`, `with_helmet1.jpg`, `with_helmet2.jpg`, `rrr.jpg`).
 - `requirements.txt`: A file listing the required Python libraries.
 
 ## Output Samples
