@@ -52,11 +52,11 @@ Ensure you have the following software installed:
 
 Here are some sample images used for helmet detection:
 
-![Demo 1](demo1.jpg)
-![Demo 2](demo2.jpg)
-![With Helmet 1](withhelmet1.jpg)
-![With Helmet 2](withhelmet2.jpg)
-![RRR](rrr.jpg)
+![Demo 1](Images/demo1.jpg)
+![Demo 2](Images/demo2.jpg)
+![With Helmet 1](Images/withhelmet1.jpg)
+![With Helmet 2](Images/withhelmet2.jpg)
+![RRR](Images/rrr.jpg)
 
 ---
 
