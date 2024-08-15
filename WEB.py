@@ -115,7 +115,7 @@ def main():
 
         )
 
-        # st.button("Sagar.E", on_click=open_website, args=['https://github.com/sagareddum'])
+   
         st.write(f'<a href="https://github.com/ajaykumar703" style="{button_style}" class="stButton">GitHub</a>',
                  unsafe_allow_html=True)
         st.markdown(f'<div style="padding-top:50px;"> </div>', unsafe_allow_html=True)
