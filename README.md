@@ -60,4 +60,4 @@ Here are some sample images used for helmet detection:
 
 ---
 
-Feel free to reach out with any questions or contributions to improve the project. Enjoy detecting helmets with YOLOv5!
+Feel free to reach out with any questions or contributions to improve the project. Enjoy detecting helmets with YOLOv3!
